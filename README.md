@@ -142,17 +142,6 @@ Some of the areas I've worked with include:
 - Web applications
 - API-driven systems
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DiegoLuan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLuan&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's connect
 
 <p>
