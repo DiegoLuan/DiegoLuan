@@ -156,7 +156,7 @@ Some of the areas I've worked with include:
 ## 📫 Let's connect
 
 <p>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/diegolochaves/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
